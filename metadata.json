@@ -1,0 +1,6 @@
+{
+  "name": "Conlang Studio",
+  "description": "A linguistic studio for configuring, mapping, testing, and synthesizing custom constructed languages (UniGlyph) with OTF font extraction, acoustic modulation, and virtual keyboard live synthesis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
